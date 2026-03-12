@@ -1,0 +1,6 @@
+@import "./tailwind.css";
+@import "./fonts.css";
+@import "./theme.css";
+.input {
+  @apply w-full h-11 rounded-lg border border-gray-300 px-3 focus:outline-none focus:ring-2 focus:ring-[#833AB4] focus:border-transparent;
+}
